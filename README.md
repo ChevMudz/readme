@@ -1,4 +1,3 @@
-# ReadMe
 # Who am I ?
 
 I am a software engineer transitioning to cloud engineering. 
